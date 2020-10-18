@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Your first AgentFramework project",
+  "scripts": {
+    "dev": "npx tsmon src/index.ts"
+  },
+  "dependencies": {
+    "agentframework": "^2.0.0-rc.2"
+  }
+}
